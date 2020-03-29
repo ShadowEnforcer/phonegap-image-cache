@@ -1,0 +1,20 @@
+{
+  "name": "phonegap-image-cache",
+  "version": "0.0.1",
+  "description": "Phonegap Image Cache",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:shadowenforcer/phonegap-image-cache.git"
+  },
+  "keywords": [
+    "phonegap",
+    "image",
+    "cache"
+  ],
+  "author": "ShadowEnforcer",
+  "license": "MIT"
+}
