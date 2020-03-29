@@ -2,7 +2,7 @@ package com.urucas.plugins;
 
 import org.apache.cordova.CordovaInterface;
 import org.apache.cordova.CordovaWebView;
-import org.apache.cordova.IceCreamCordovaWebViewClient;
+//import org.apache.cordova.IceCreamCordovaWebViewClient;
 
 import android.annotation.TargetApi;
 import android.os.Build;
